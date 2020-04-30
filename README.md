@@ -1,3 +1,5 @@
 Red Black Tree Implementations in C++
-Compile -> make
+
+Compile -> make 
+
 Run -> ./rbt <integer>
